@@ -56,3 +56,5 @@ for c in FLAG:
     n += 1
 ```
 Setiap karakter dienkripsi dengan key yang unik
+
+> Flag : COMPFEST12{ez_pz_lemonade_squeez_a42447}
