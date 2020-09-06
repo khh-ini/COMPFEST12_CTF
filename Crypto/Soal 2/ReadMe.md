@@ -55,4 +55,4 @@ for c in FLAG:
     encrypted.append(c ^ n)
     n += 1
 ```
-Setiap karakter yang dienkripsi unik
+Setiap karakter dienkripsi dengan key yang unik
