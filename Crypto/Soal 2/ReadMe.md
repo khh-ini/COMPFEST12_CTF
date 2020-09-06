@@ -21,7 +21,7 @@ n adalah random integer antara 1^400 - 10^500
 while(not(f(n))):
     n = random.randint(a, b)
 ```
-n akan di random samapi nilai fungsi f True
+n akan di random sampai nilai fungsi f True
 
 ```python
 def f(n):
@@ -41,7 +41,6 @@ def f(n):
     else:
         return False
 ```
-
 fungsi f True jika n hanya dapat dikurangi habis oleh 1 buah angka antara 2 - n atau dengan kata lain n = bilangan prima^2
 
 ```python
