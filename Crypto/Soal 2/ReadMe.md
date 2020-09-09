@@ -57,6 +57,5 @@ for c in FLAG:
 ```
 Setiap karakter dienkripsi dengan key yang unik
 
-Solusi soal ada pada file sol.py
 
 > Flag : COMPFEST12{ez_pz_lemonade_squeez_a42447}
